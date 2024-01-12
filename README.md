@@ -11,5 +11,5 @@
 * How do seasonal and regional variations impact demand for Airbnb rentals?
 * What are the best practices for pricing, marketing, and managing Airbnb listings to maximize profits and minimize risks?
 
-# Define Your Business Objective?
-**This problem statement highlights the need to gain a deeper understanding of the underlying patterns and relationships in Airbnb booking data. AirBnb's EDA aims to uncover guest and host trends, patterns or anomalies in the data that may impact customer booking decisions.
+# Define Your Business Objective.
+**This problem statement highlights the need to gain a deeper understanding of the underlying patterns and relationships in Airbnb booking data. AirBnb's EDA aims to uncover guest and host trends, patterns or anomalies in the data that may impact customer booking decisions.**
